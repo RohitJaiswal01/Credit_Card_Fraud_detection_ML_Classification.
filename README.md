@@ -1,5 +1,6 @@
 # Credit_Card_Fraud_detection_ML_Classification.
-![image](https://github.com/user-attachments/assets/be06bbe6-436b-493b-9292-1c819c39ef00)
+![image](https://github.com/user-attachments/assets/f77a54ff-5c15-4b37-bec6-210798b5687a)
+
 
 
 
