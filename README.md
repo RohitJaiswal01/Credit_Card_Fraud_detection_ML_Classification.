@@ -1,4 +1,7 @@
 # Credit_Card_Fraud_detection_ML_Classification.
+![image](https://github.com/user-attachments/assets/be06bbe6-436b-493b-9292-1c819c39ef00)
+
+
 
 ## Problem statement 
 
